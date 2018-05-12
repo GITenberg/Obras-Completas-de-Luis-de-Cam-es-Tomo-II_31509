@@ -17,6 +17,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Lu%C3%ADs_Vaz_de_Cam%C3%B5es
     - http://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31509#Obras-Completas-de-Luis-de-Cam-es-Tomo-II
 gutenberg_bookshelf:
 - PT Biografia
 - PT Poesia
