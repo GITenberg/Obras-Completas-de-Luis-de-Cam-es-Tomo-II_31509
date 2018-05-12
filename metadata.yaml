@@ -1,0 +1,36 @@
+_repo: Obras-Completas-de-Luis-de-Cam-es-Tomo-II_31509
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Camões, Luís de
+    aliases:
+    - Camões,  Luís Vas de
+    - Camões, Luís Vaz de
+    - Camoes, Luis de
+    deathdate: 1580
+    gutenberg_agent_id: '1183'
+    url: http://www.gutenberg.org/2009/agents/1183
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Lu%C3%ADs_Vaz_de_Cam%C3%B5es
+    - http://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es
+description: ''
+gutenberg_bookshelf:
+- PT Biografia
+- PT Poesia
+gutenberg_issued: '2010-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31509'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese literature -- 16th century'
+- !lcsh 'Portuguese poetry -- Classical period, 1500-1700'
+- !lcc 'PQ'
+title: Obras Completas de Luis de Camões, Tomo II
+url: http://www.gutenberg.org/ebooks/31509
